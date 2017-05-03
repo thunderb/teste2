@@ -119,7 +119,7 @@ int main(int argc, char *argv[])
 	}
 
 	printer::inst()->print_str("-------------------------------------------------------------------\n");
-	printer::inst()->print_str("XMR-Stak-CPU mining software, CPU Version.\n");
+	printer::inst()->print_str("AEON-Stak-CPU mining software, CPU Version.\n");
 	printer::inst()->print_str("Based on CPU mining code by wolf9466 (heavily optimized by myself).\n");
 	printer::inst()->print_str("Brought to you by fireice_uk under GPLv3.\n\n");
 	char buffer[64];
