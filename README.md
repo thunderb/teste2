@@ -42,18 +42,6 @@ By default the miner will donate 1% of the hashpower (1 minute in 100 minutes) t
 
 If you want to donate directly to support this **AEON FORK**:
 
-```
-AEON WALLET
-Wmt4c5SLGAE9QjeN7B2nt9i2XRegisu96af24VqhKMa53yDZjGui14bMYQK2WaQyj6D3GqndgVk4hMEbSSxdUSSv2qyygU83e
-```
-
-If you want to donate directly to support further development, here is **fireice-uk XMR wallet**
-
-```
-XMR WALLET (fireice-uk)
-4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
-```
-
 ### Common Issues
 
 **SeLockMemoryPrivilege failed**
